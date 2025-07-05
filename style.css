@@ -1,0 +1,31 @@
+h1, h2 {
+    text-align: center;
+}
+
+.li-pet {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.pet-raca {
+    margin-bottom: 30px;
+}
+
+.rodape {
+    text-align: center;
+}
+
+/* .botao-editar, .botao-excluir {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  margin-left: 8px;
+} */
+
+.botao-editar img, .botao-excluir img {
+  width: 15px;
+  height: 15px;
+}

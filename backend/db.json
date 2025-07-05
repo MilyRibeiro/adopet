@@ -1,0 +1,76 @@
+{
+  "pets": [
+    {
+      "id": "1a2b",
+      "nome": "Mimi",
+      "especie": "Felina",
+      "raca": "Siamês"
+    },
+    {
+      "id": "2b3c",
+      "nome": "Rex",
+      "especie": "Canina",
+      "raca": "Labrador"
+    },
+    {
+      "id": "3c4d",
+      "especie": "felina",
+      "nome": "Luna",
+      "raca": "Persa"
+    },
+    {
+      "id": "5e6f",
+      "especie": "felina",
+      "nome": "Simba",
+      "raca": "Maine Coon"
+    },
+    {
+      "id": "6f7g",
+      "especie": "canina",
+      "nome": "Bella",
+      "raca": "Bulldog"
+    },
+    {
+      "id": "7g8h",
+      "especie": "felina",
+      "nome": "Oscar",
+      "raca": "Bengal"
+    },
+    {
+      "id": "8h9i",
+      "especie": "canina",
+      "nome": "Lola",
+      "raca": "Poodle"
+    },
+    {
+      "id": "9i0j",
+      "especie": "felina",
+      "nome": "Nina",
+      "raca": "Sphynx"
+    },
+    {
+      "id": "0j1k",
+      "especie": "canina",
+      "nome": "Charlie",
+      "raca": "Golden Retriever"
+    },
+    {
+      "id": "02e7",
+      "nome": "Freya",
+      "especie": "Canina",
+      "raca": "SRD"
+    },
+    {
+      "id": "513b",
+      "nome": "Rex",
+      "especie": "Canina",
+      "raca": "Pastor alemão"
+    },
+    {
+      "id": "6a16",
+      "nome": "Dotie",
+      "especie": "Canina",
+      "raca": "sem raça definida"
+    }
+  ]
+}
